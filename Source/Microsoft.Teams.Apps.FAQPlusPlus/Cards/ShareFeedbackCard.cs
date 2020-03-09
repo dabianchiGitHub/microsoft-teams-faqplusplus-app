@@ -19,7 +19,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Cards
         /// <summary>
         /// Text associated with share feedback command
         /// </summary>
-        public const string ShareFeedbackSubmitText = "ShareFeedback";
+        public const string ShareFeedbackSubmitText = "Compartir Opinion";
 
         /// <summary>
         /// This method will construct the card for share feedback, when invoked from the bot menu.
