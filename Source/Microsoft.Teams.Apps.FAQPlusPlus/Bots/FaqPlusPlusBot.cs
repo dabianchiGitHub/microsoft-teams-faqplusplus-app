@@ -45,7 +45,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Bots
         /// <summary>
         /// AskAnExpert - text that renders the ask an expert card.
         /// </summary>
-        public const string AskAnExpert = "Preguntale a un experto";
+        public const string AskAnExpert = "Preguntarle a un experto";
 
         /// <summary>
         /// Feedback - text that renders share feedback card.
