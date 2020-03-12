@@ -47,9 +47,16 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Cards
                                 Text = FaqPlusPlusBot.AskAnExpert
                             },
                             UserQuestion = userQuestion
-                        },
+                        }
                     }
+                    new AdaptiveOpenUrlAction
+                    {
+                           Title = "Videoteca",
+                           Uri Url = new Uri("https://www.microsoft.com/"),
+                    }, 
+                    
                 }
+              
             };
 
             return new Attachment
