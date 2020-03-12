@@ -76,7 +76,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Cards
                     new AdaptiveOpenUrlAction
                     {
                            Title = "Videoteca",
-                           Url = new Uri("https://web.microsoftstream.com/channel/6a92c909-c01f-4b81-90b5-70110a88e0d3/"),
+                           Uri Url = new Uri("https://web.microsoftstream.com/channel/6a92c909-c01f-4b81-90b5-70110a88e0d3/"),
                     }
                 }
             };
